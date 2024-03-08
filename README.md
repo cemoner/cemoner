@@ -2,7 +2,7 @@
 
 ### Languages and Tools
 
-### Java <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+### Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 ### JavaFx
 ### Kotlin
 ### HTML5
