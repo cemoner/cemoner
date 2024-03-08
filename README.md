@@ -2,17 +2,17 @@
 
 ### Languages and Tools
 
-### Java 
-### JavaFx
-### Kotlin
-### HTML5
-### CSS
-### Bootstrap
-### JavaScript
-### Flask
-### Python
+### -- Java 
+### -- JavaFx
+### -- Kotlin
+### -- HTML5
+### -- CSS
+### -- Bootstrap
+### -- JavaScript
+### -- Flask
+### -- Python
 
-
+------------------------
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android Projects
