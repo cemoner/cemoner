@@ -2,7 +2,7 @@
 
 ### Languages and Tools
 
-### Java
+### Java <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
 ### JavaFx
 ### Kotlin
 ### HTML5
@@ -13,13 +13,7 @@
 ### Python
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🌱 I’m currently learning Android Development
+- 👯 I’m looking to collaborate on Android Projects
 - 📫 How to reach me: [...](https://www.linkedin.com/in/cem-oner/)https://www.linkedin.com/in/cem-oner/
-- ⚡ Fun fact: ...
--->
