@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<!--
-**cemoner/cemoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Languages and Tools
+### Languages and Tools
 
-Java
-JavaFx
-Kotlin
-HTML5
-CSS
-Bootstrap
-JavaScript
-Flask
-Python
+### Java
+### JavaFx
+### Kotlin
+### HTML5
+### CSS
+### Bootstrap
+### JavaScript
+### Flask
+### Python
 
 
 Here are some ideas to get you started:
