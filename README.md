@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cem Öner</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemoner&label=Profile%20views&color=0e75b6&style=flat" alt="cemoner" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/cem-oner/</h3>
 <p align="left">
 </p>
 
@@ -11,3 +11,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemoner&show_icons=true&locale=en&layout=compact" alt="cemoner" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemoner&show_icons=true&locale=en" alt="cemoner" /></p>
+
+👯 I’m looking to collaborate on Android Development
+
+🌱 I’m currently learning Android Development
