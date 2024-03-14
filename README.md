@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Cem Öner</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemoner&label=Profile%20views&color=0e75b6&style=flat" alt="cemoner" /> </p>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/cem-oner/</h3>
 <p align="left">
