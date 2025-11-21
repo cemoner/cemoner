@@ -11,6 +11,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemoner&show_icons=true&locale=en" alt="cemoner" /></p>
 
-👯 I’m looking to collaborate on Android Development
+👯 I’m looking to collaborate with people on Android Development
 
 🌱 I’m currently learning Android Development
