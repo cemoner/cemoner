@@ -26,6 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cemoner&show_icons=true&locale=en" alt="cemoner" />
 </p>
 
-👯 I’m looking to collaborate with people on Android Development
-
-🌱 I’m currently learning Android Development
+### 👨‍💻 About Me
+* 🎓 **M.Sc. Student in Computer Science** at **TU Dresden**.
+* 🚀 **Software Engineer** specializing in Kotlin, KMP, and Next.js.
+* 👯 I’m looking to collaborate on **Android Development** projects.
+* 🌱 Currently learning **Jetpack Compose** and **Clean Architecture**.
+* 🌍 Based in **Dresden, Germany**.
